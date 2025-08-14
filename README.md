@@ -1,1 +1,1 @@
-# SCT_DS_2
+# Exploratory data analysis on sales data
